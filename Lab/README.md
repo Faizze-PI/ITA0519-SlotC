@@ -9,7 +9,7 @@ Department of Information Technology
 ## 📁 Folder Structure
 
 * **[`Programs/`](Programs/)**: Contains all 40 verified Python programs along with dependencies, test assets, and the interactive runner.
-* **[`outputs/`](outputs/)**: Contains high-resolution output screenshots from all 40 experiments.
+* **[`outputs/`](outputs/)**: Contains high-resolution output screenshots from all 40 experiments. (👉 **[Browse Full Visual Output Gallery](outputs/README.md)**)
 
 ---
 
